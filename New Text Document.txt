@@ -1,0 +1,9 @@
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+https://colab.research.google.com/github/Arijit1080/Licence-Plate-Detection-using-TensorFlow-Lite/blob/main/TensorFlowLite2_Object_Detction_Model.ipynb
+https://github.com/Arijit1080/Licence-Plate-Detection-using-TensorFlow-Lite
+https://www.youtube.com/watch?v=kwrLK71fP1Q
+
+
+
+
+https://github.com/Kavya-812/Object-detection-using-ESP32/blob/main/README.md
