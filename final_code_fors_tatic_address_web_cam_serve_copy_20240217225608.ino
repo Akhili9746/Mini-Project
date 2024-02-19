@@ -13,9 +13,9 @@
 const char* ssid = "SPECULUM";
 const char* password = "20H220H2";
 IPAddress staticIP(192, 168, 20, 86);
-IPAddress gateway(192, 168, 20, 1);   // Replace this with your gateway IP Addess
+IPAddress gateway(192, 168, 142, 95);   // Replace this with your gateway IP Addess
 IPAddress subnet(255, 255, 255, 0);  // Replace this with your Subnet Mask
-IPAddress dns(192, 168, 20, 1);   // Replace this with your DNS
+IPAddress dns(192, 168, 142, 95);   // Replace this with your DNS
 
 
 
